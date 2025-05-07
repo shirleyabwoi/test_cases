@@ -1,0 +1,20 @@
+{
+  "name": "test_cases",
+  "version": "1.0.0",
+  "description": "The test cases are for log in and sign up pages",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirleyabwoi/test_cases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirleyabwoi/test_cases/issues"
+  },
+  "homepage": "https://github.com/shirleyabwoi/test_cases#readme"
+}
